@@ -1,0 +1,32 @@
+
+
+.primary-color {
+   background-color:#B68C5A;
+}
+.bk:hover {
+    background-color: rgb(26, 161, 71);
+}
+.banner-img {
+    background-image: url(../images/Rectangle4.png);
+     /* background-repeat: no-repeat;
+/*background-size: cover; */
+    height: 100vh; 
+}
+.Useful-link {
+    list-style: none;
+}
+.addre{
+    font-size: 15px;
+}
+.number {
+    margin: 0;
+    padding:0px;
+}
+.carousel-caption {
+    top:50%;
+    transform: translateY(-50%);
+    bottom: initial;
+}
+.img-width {
+    width: 90px;
+}
